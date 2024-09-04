@@ -1,0 +1,1 @@
+select co2_consumed from game where screen_name='Ilkka';

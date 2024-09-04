@@ -1,0 +1,1 @@
+select location from game where screen_name='Vesa';

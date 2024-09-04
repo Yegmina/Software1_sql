@@ -1,0 +1,1 @@
+select name from airport where iso_country="FI";
